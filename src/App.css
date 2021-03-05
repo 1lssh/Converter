@@ -1,0 +1,27 @@
+.valutes { 
+    margin-bottom: 10px;
+}
+.valute {
+    padding-bottom: 10px;
+    padding-right: 10px;
+    width: 100%;
+    border-bottom: 1px black solid;
+}
+.valutes:hover {
+    background-color: blanchedalmond;
+}
+.valute-info {
+    font-weight: 700;
+}
+.container {
+    max-width: 1170px;
+    margin: auto;
+    height: 1000px;
+  }
+.nav-button {
+    text-decoration: none;
+    color: white;
+}
+.result {
+    font-size: 30px;
+}
